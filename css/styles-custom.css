@@ -44,6 +44,9 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.border-info { 
+	color: #102c54;
+}
 body,
 html {
     width: 100%;
